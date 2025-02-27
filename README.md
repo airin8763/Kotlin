@@ -28,16 +28,8 @@ The output will display the results of the cross-validation.
 
 
 
- fit time: 2130.579 ms ± 193.021,
-  score time: 19.237 ms ± 7.002,
-  validation data size:: 1590 ± 2,
-  RSS: 1.4335 ± 0.4716,
-  MSE: 0.0009 ± 0.0003,
-  RMSE: 0.0296 ± 0.0058,
-  MAD: 0.0028 ± 0.0008,
-  R2: 99.60% ± 0.13
+ 
 
 
 
-o
 
